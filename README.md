@@ -4,7 +4,7 @@ The purpose of this app is to use ibeacon technology and leveraging PI SDK to ea
 Also contains sample code to make an API call to retrieve bearer token from Bluemix and posting a beacon to Presence Insights.
 
 ##Instructions
-You would need to use a ios device to use Beacon SDK. Xcode simulator does not support beacons/BLE. 
+You would need to use a ios device to run this sample application. Xcode simulator does not support beacons/BLE.
 
 * Open pi-sample-ios-BeaconConfig.xcodeproj
 * Make sure you select your ios device instead of the simulator
